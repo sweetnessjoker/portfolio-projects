@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  font-family: 'Oswald', Helvetica, sans-serif;
+  font-size: 40px;
+  transform: skewY(-2deg);
+  letter-spacing: 4px;
+  word-spacing: -8px;
+  color: rgb(245, 180, 231);
+  text-shadow: 
+    -1px -1px 0 rgb(205, 133, 243),
+    -2px -2px 0 rgb(187, 85, 243),
+    -3px -3px 0 rgb(179, 69, 238),
+    -4px -4px 0 rgb(118, 31, 164),
+    -5px -5px 0 rgb(116, 20, 168),
+    -6px -6px 0 rgb(116, 20, 168),
+    -7px -7px 0 rgb(116, 20, 168),
+    -8px -8px 0 rgb(116, 20, 168),
+    -30px 20px 40px rgb(97, 57, 105);
+}
+
+
+body {
+  background-color: bisque;
+  margin: 80px;
+}
+
+button {
+  background-color: rgb(196, 152, 238);
+  
+}
+li {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+done {
+  text-decoration: line-through;
+}
